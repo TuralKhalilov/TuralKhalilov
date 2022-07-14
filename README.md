@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 
 
 
-[![Tural's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuralKhalilov&show_icons=true&theme=dark&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tural's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuralKhalilov&show_icons=true&theme=dark&hide_border=true&show_owner=true)](https://github.com/TuralKhalilov/github-readme-stats)
 
 
 
