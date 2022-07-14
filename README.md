@@ -7,8 +7,6 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working in every field, trying to improve myself
 - 🌱 I’m currently learning deep learning and mvc
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...:D
 - 📫 How to reach me: khalilov@mail.com
 
