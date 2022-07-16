@@ -3,7 +3,7 @@
 - 🔭 I’m currently working in every field, trying to improve myself
 - 🌱 I’m currently learning deep learning and mvc
 - 💬 Ask me about ...:D
-- 📫 How to reach me: khalilov@mail.com
+
 
  ## Tech Stack
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
