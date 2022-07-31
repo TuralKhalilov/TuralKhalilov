@@ -1,5 +1,5 @@
 
-   ## About Me
+   ## About Me.
 - 🔭 I’m currently working in every field, trying to improve myself
 - 🌱 I’m currently learning deep learning and mvc
 - 💬 Ask me about ...:D
