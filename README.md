@@ -1,7 +1,7 @@
 
    ## About Me.
 - 🔭 I’m currently working in every field, trying to improve myself
-- 🌱 I’m currently learning deep learning and mvc
+- 🌱 I’m currently learning .Net ,WebAPI,MVC
 - 💬 Ask me about..:D
 
 
